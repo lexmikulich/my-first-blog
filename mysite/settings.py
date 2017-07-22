@@ -25,9 +25,7 @@ SECRET_KEY = 'vgm1&k4=^*2)^c^c3mi#0fv8&bus3t3o2_gk1+#qd9a10*j^(n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
-
+ALLOWED_HOSTS = ['127.0.0.1', 'lexmikulich.pythonanywhere.com']
 # Application definition
 
 INSTALLED_APPS = [
